@@ -4,9 +4,9 @@ Print logrus logs with glog.
 
 ## Purpose
 
-Both `glog` and `logrus` have thousands of stars in github and large mount of users in the world.
+Both `glog` and `logrus` have thousands of stars on github and large amount of users in the world.
 
-In case writing code that intent to be imported by others, it is a question to be `glog` or to be `logrus`. 
+In case writing code that intend to be imported by others, it is a question to be `glog` or to be `logrus`. 
 With `glog4logrus`, you could just log with `logrus`, and set output to `glog` if work with `glog` code. 
 
 ## Usage
